@@ -1,4 +1,4 @@
-<img src="assets/marvikit-play-header-4096x2304.jpg" alt="MarVikIT: App &amp; Web Development" width="100%">
+   <img src="assets/marvikit-play-header-4096x2304.jpg" alt="MarVikIT: App &amp; Web Development" width="100%">
 
 We build software that ships and keeps running. MarVikIT is an independent software studio in Novi Sad, Serbia, founded, owned and led by [Nikola Dimovski](https://github.com/nikoladimovski71-svg). We make our own apps and deliver mobile apps, websites and backends for clients, from the first call to launch and beyond.
 
